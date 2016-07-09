@@ -1,0 +1,43 @@
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+.bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+.bg-3 { 
+    padding-left :30px;
+}
+.container {
+    padding-top: 30px;
+	padding-bottom: 50px;
+}
+.panel-body{
+padding: 10px;
+}
+.bg-4{
+color: #ffffff;
+}
+.bg-5{
+	
+border-right: 1px solid;
+border-color: #ffffff;
+}
+.bg-6 { 
+    padding-top :20px;
+	padding-left :0px;
+}
+.bg-7 { 
+    border-top: 1px solid;
+border-color: #ffffff;
+}
+.bg-8 {
+	text-align:right;
+	font-size: 24px;
+}
